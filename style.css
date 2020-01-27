@@ -1,0 +1,9 @@
+.bg-head{
+  background: url("https://picsum.photos/1600/900");
+}
+.navbar li{
+  background-color:white;
+}
+header .col-12 h1{
+  border-bottom:2px solid orange;
+}
