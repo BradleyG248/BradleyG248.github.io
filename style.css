@@ -2,8 +2,14 @@
   background: url("https://picsum.photos/1600/900");
 }
 .navbar li{
-  background-color:white;
+  background: transparent;
 }
 header .col-12 h1{
-  border-bottom:2px solid orange;
+  border-bottom:2px solid #86bbd8;
+}
+.blue-bg{
+  background-color:#33658a;
+}
+.bg-green{
+  background-color: #86bbd8;
 }
