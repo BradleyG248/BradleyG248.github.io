@@ -1,15 +1,55 @@
 .bg-head{
   background: url("https://picsum.photos/1600/900");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .navbar li{
   background: transparent;
 }
 header .col-12 h1{
-  border-bottom:2px solid #86bbd8;
+  border-bottom:2px solid #ADD9F4;
 }
 .blue-bg{
-  background-color:#33658a;
+  background-color:#476C9B;
 }
 .bg-green{
-  background-color: #86bbd8;
+  background-color: #ADD9F4;
+}
+.card-title-bg{
+  background-color:#468C98;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+}
+.card-back{
+  background-image: url("https://picsum.photos/200/300");
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+}
+.bg-footer{
+  background-color:#101419;
+  color: white;
+}
+colors{
+  color:#101419
+  #468C98
+  #ADD9F4
+  #476C9B
+  #984447
+  #274F56
+}
+.col i{
+  padding-left:0.5rem;
+  padding-right:0.5rem;
+}
+.progress-bar{
+  background-color:#984447;
+}
+.card-back .btn{
+  background-color:#468C98;
+  border:0px;
+}
+.card-back .btn:hover{
+  background-color: #274F56;
 }
