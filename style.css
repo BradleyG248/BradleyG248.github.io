@@ -1,5 +1,5 @@
 .bg-head{
-  background: url("https://picsum.photos/1600/900");
+  background: url("https://picsum.photos/1920/1080");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -21,11 +21,12 @@ header .col-12 h1{
   background-color:#468C98;
   border-top-right-radius: 1rem;
   border-top-left-radius: 1rem;
+  margin-bottom:0px;
 }
 .card-back{
-  background-image: url("https://picsum.photos/200/300");
   border-top-right-radius: 1rem;
   border-top-left-radius: 1rem;
+  margin-bottom:1rem;
 }
 .bg-footer{
   background-color:#101419;
